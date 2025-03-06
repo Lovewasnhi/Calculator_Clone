@@ -1,0 +1,27 @@
+.container {
+  width: 300px;
+  height: 500px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  border: 1px solid rgb(123, 117, 117);
+}
+
+#text-content {
+  margin: 15px;
+  width: 86%;
+  font-size: 30px;
+}
+
+.inner-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 15px;
+}
+
+.button-container {
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+  font-size: 20px;
+}
